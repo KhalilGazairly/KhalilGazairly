@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-**KhalilGazairly/KhalilGazairly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- Statistics -->
+<a href="https://www.abdelrahmanbayoumi.ml/"><img align="right" width="50%" alt="Github" src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanBayoumi&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true" /></a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Pinterest Clone](https://pinterest-iti.herokuapp.com/)
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-![Metrics](https://metrics.lecoq.io/KhalilGazairly?template=classic&config.timezone=Africa%2FCairo)
