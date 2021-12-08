@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 <br> 
 
 ## 🙋‍♂️ Connect with me
+<p align="center">
 If you have questions, or you have a project I'm available for freelancing and also I'm looking for a new opportunities,
 you can always contact me at: <br>
-
+</p>
 <p align="center">
   <a href="mailto:khalil.gazairly@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/khalil-gazairly/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
