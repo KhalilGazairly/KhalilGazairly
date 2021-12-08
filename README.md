@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Khalil+Gazairly....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 <!-- Statistics -->
 <a href="https://khalilgazairly.github.io/khalil/"><img align="right" width="50%" alt="Github" src="https://github-readme-stats.vercel.app/api?username=KhalilGazairly&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true" /></a>
