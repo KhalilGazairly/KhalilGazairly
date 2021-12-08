@@ -62,5 +62,6 @@ Here are some ideas to get you started:
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories"><h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
+</a>
 </h4>
