@@ -7,8 +7,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Pinterest Clone](https://pinterest-iti.herokuapp.com/)
-- 🌱 I’m currently learning Django Restframework, ReactJs
+<!-- - 🔭 I’m currently working on [Pinterest Clone](https://pinterest-iti.herokuapp.com/) -->
+- 🔭 I’m currently working as Front-End Devolper
+- 🌱 I’m currently learning VueJs, NuxtJs.
 - 🤔 I’m looking for help with Getting Job
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 💬 Ask me about ... -->
